@@ -1,4 +1,4 @@
-package com.nyanyaww;
+package com.nyanyaww.control;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
